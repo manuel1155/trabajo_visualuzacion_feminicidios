@@ -1,0 +1,450 @@
+[
+    {
+        "estado": "Aguascalientes",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 5
+            },
+            {
+                "ano": "2020",
+                "casos": 3
+            }
+        ],
+        "incremento": -0.4
+    },
+    {
+        "estado": "BC",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 23
+            },
+            {
+                "ano": "2020",
+                "casos": 31
+            }
+        ],
+        "incremento": 0.347826086956522
+    },
+    {
+        "estado": "BCS",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 2
+            },
+            {
+                "ano": "2020",
+                "casos": 4
+            }
+        ],
+        "incremento": 1
+    },
+    {
+        "estado": "Campeche",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 6
+            },
+            {
+                "ano": "2020",
+                "casos": 3
+            }
+        ],
+        "incremento": -0.5
+    },
+    {
+        "estado": "Chiapas",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 20
+            },
+            {
+                "ano": "2020",
+                "casos": 28
+            }
+        ],
+        "incremento": 0.4
+    },
+    {
+        "estado": "Chihuahua",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 29
+            },
+            {
+                "ano": "2020",
+                "casos": 30
+            }
+        ],
+        "incremento": 0.0344827586206897
+    },
+    {
+        "estado": "Edo de México",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 72
+            },
+            {
+                "ano": "2020",
+                "casos": 78
+            }
+        ],
+        "incremento": 0.0833333333333333
+    },
+    {
+        "estado": "Coahuila",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 24
+            },
+            {
+                "ano": "2020",
+                "casos": 24
+            }
+        ],
+        "incremento": 0
+    },
+    {
+        "estado": "Colima",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 11
+            },
+            {
+                "ano": "2020",
+                "casos": 7
+            }
+        ],
+        "incremento": -0.363636363636364
+    },
+    {
+        "estado": "Durango",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 10
+            },
+            {
+                "ano": "2020",
+                "casos": 12
+            }
+        ],
+        "incremento": 0.2
+    },
+    {
+        "estado": "Guanajuato",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 18
+            },
+            {
+                "ano": "2020",
+                "casos": 19
+            }
+        ],
+        "incremento": 0.0555555555555556
+    },
+    {
+        "estado": "Guerrero",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 18
+            },
+            {
+                "ano": "2020",
+                "casos": 13
+            }
+        ],
+        "incremento": -0.277777777777778
+    },
+    {
+        "estado": "Hidalgo",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 20
+            },
+            {
+                "ano": "2020",
+                "casos": 19
+            }
+        ],
+        "incremento": -0.05
+    },
+    {
+        "estado": "Jalisco",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 65
+            },
+            {
+                "ano": "2020",
+                "casos": 68
+            }
+        ],
+        "incremento": 0.0461538461538462
+    },
+    {
+        "estado": "DF",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 121
+            },
+            {
+                "ano": "2020",
+                "casos": 150
+            }
+        ],
+        "incremento": 0.239669421487603
+    },
+    {
+        "estado": "Michoacán",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 13
+            },
+            {
+                "ano": "2020",
+                "casos": 21
+            }
+        ],
+        "incremento": 0.615384615384615
+    },
+    {
+        "estado": "Morelos",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 39
+            },
+            {
+                "ano": "2020",
+                "casos": 35
+            }
+        ],
+        "incremento": -0.102564102564103
+    },
+    {
+        "estado": "Nayarit",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 5
+            },
+            {
+                "ano": "2020",
+                "casos": 12
+            }
+        ],
+        "incremento": 1.4
+    },
+    {
+        "estado": "Nuevo León",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 67
+            },
+            {
+                "ano": "2020",
+                "casos": 67
+            }
+        ],
+        "incremento": 0
+    },
+    {
+        "estado": "Oaxaca",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 28
+            },
+            {
+                "ano": "2020",
+                "casos": 36
+            }
+        ],
+        "incremento": 0.285714285714286
+    },
+    {
+        "estado": "Puebla",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 57
+            },
+            {
+                "ano": "2020",
+                "casos": 52
+            }
+        ],
+        "incremento": -0.0877192982456141
+    },
+    {
+        "estado": "Querétaro",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 10
+            },
+            {
+                "ano": "2020",
+                "casos": 11
+            }
+        ],
+        "incremento": 0.1
+    },
+    {
+        "estado": "Quintana Roo",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 16
+            },
+            {
+                "ano": "2020",
+                "casos": 15
+            }
+        ],
+        "incremento": -0.0625
+    },
+    {
+        "estado": "SLP",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 28
+            },
+            {
+                "ano": "2020",
+                "casos": 27
+            }
+        ],
+        "incremento": -0.0357142857142857
+    },
+    {
+        "estado": "Sinaloa",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 37
+            },
+            {
+                "ano": "2020",
+                "casos": 26
+            }
+        ],
+        "incremento": -0.297297297297297
+    },
+    {
+        "estado": "Sonora",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 37
+            },
+            {
+                "ano": "2020",
+                "casos": 31
+            }
+        ],
+        "incremento": -0.162162162162162
+    },
+    {
+        "estado": "Tabasco",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 27
+            },
+            {
+                "ano": "2020",
+                "casos": 15
+            }
+        ],
+        "incremento": -0.444444444444444
+    },
+    {
+        "estado": "Tamaulipas",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 16
+            },
+            {
+                "ano": "2020",
+                "casos": 12
+            }
+        ],
+        "incremento": -0.25
+    },
+    {
+        "estado": "Tlaxcala",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 5
+            },
+            {
+                "ano": "2020",
+                "casos": 8
+            }
+        ],
+        "incremento": 0.6
+    },
+    {
+        "estado": "Veracruz",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 104
+            },
+            {
+                "ano": "2020",
+                "casos": 76
+            }
+        ],
+        "incremento": -0.269230769230769
+    },
+    {
+        "estado": "Yucatán",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 3
+            },
+            {
+                "ano": "2020",
+                "casos": 6
+            }
+        ],
+        "incremento": 1
+    },
+    {
+        "estado": "Zacatecas",
+        "feminicidios": [
+            {
+                "ano": "2019",
+                "casos": 11
+            },
+            {
+                "ano": "2020",
+                "casos": 10
+            }
+        ],
+        "incremento": -0.0909090909090909
+    }
+]
