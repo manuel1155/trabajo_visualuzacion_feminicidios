@@ -1,0 +1,92 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 100%;
+    /* height: 100px; */
+    position: relative;
+    background: url('img/wallpaper.jpg') no-repeat;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.toolTip {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: absolute;
+    display: none;
+    width: auto;
+    height: auto;
+    background: none repeat scroll 0 0 white;
+    border: 0 none;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: -3px 3px 15px #888888;
+    color: black;
+    font: 12px sans-serif;
+    padding: 5px;
+    text-align: center;
+    z-index: 999;
+}
+
+.bar2:hover {
+    fill: #0d0d71;
+}
+
+.legend {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 60%;
+}
+text {
+    font: 10px sans-serif;
+}
+.axis text {
+    font: 10px sans-serif;
+}
+.axis path{
+    fill: none;
+    stroke: #000;
+}
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+.axis .tick line {
+    stroke-width: 1;
+    stroke: rgba(0, 0, 0, 0.2);
+}
+.x.axis path {
+    display: none;
+}
+
+.principal {
+    width: 85%;
+    height: 600px;
+    overflow-y: auto;
+    background: url('img/mapa_mexico_60.png') no-repeat;
+    background-repeat: no-repeat;
+    background-color: #bfa5c4;
+    background-size: 75%;
+    background-position: center;
+    padding-left: 50px;
+    vertical-align: middle;
+    text-align: center; 
+}
+
+h1 { color: #b48608; 
+    font-family: 'Droid serif', serif; 
+    font-size: 36px; 
+    font-weight: bold; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 0 0 12px; 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center; 
+    background-color: #bfa5c4;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+svg{
+    text-align: center;
+}
+
